@@ -196,7 +196,7 @@ body {
   padding: 16px 18px;
   border-radius: 999px;
   text-decoration: none;
-  color: #fff;
+  color: var(--text-0);
   font-weight: 700;
   font-size: 16px;
   letter-spacing: 0.2px;
@@ -247,6 +247,7 @@ body {
 
 .btn--x {
   background: linear-gradient(135deg, #111827, #0b1220);
+  color: #fff;
 }
 
 .btn--icon-only {
