@@ -238,11 +238,11 @@ body {
 }
 
 .btn--primary {
-  background: linear-gradient(135deg, var(--accent-0), #ff9fb0);
+  background: linear-gradient(135deg, var(--accent-0), var(--accent-1));
 }
 
 .btn--secondary {
-  background: linear-gradient(135deg, var(--accent-1), #9ed9c0);
+  background: linear-gradient(135deg, var(--accent-1), var(--accent-0));
 }
 
 .btn--x {
